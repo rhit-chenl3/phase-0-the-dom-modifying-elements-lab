@@ -11,4 +11,4 @@ main.remove(main);
 const newHeader = document.createElement('h1'); 
 newHeader.id = "victory";
 document.body.appendChild(newHeader);
-victory.innerHTML = "<h1> Leo is the champion </h1>";
+victory.innerHTML = "Leo is the champion";
